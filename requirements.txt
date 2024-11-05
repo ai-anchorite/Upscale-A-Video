@@ -20,3 +20,4 @@ omegaconf
 opencv-python
 scipy
 pyfiglet
+bitsandbytes  # for 8-bit quantization
