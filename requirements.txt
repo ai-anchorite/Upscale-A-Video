@@ -1,5 +1,5 @@
-torch==2.0.1
-torchvision
+#torch==2.0.1
+#torchvision
 accelerate==0.18.0
 av==9.1.0
 decord==0.6.0
@@ -11,7 +11,7 @@ numpy==1.24.3
 imageio-ffmpeg==0.4.8
 timm==0.4.12
 transformers==4.28.1
-xformers>=0.0.20
+#xformers>=0.0.20
 sentencepiece==0.1.99
 rotary-embedding-torch==0.2.3
 tqdm
